@@ -3,9 +3,11 @@ ChromecastHackathon::Application.routes.draw do
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  # root 'tictactoe#index'
+  root 'tictactoes#index'
 
-  resource :tictactoe
+  # resource :tictactoe do
+
+  # end
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

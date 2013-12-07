@@ -18,8 +18,8 @@ limitations under the License.
   <link id="favIcon" rel="icon" type="image/png" href="tictactoe.png"/>
   <title>Tic-Tac-Toe</title>
   <script src="http://www.gstatic.com/eureka/castv2/1b32655bebed4db5afcafeb1f596dcaa/cast_receiver.js"></script>
-  <script src="board.js"></script>
-  <script src="tictactoe.js"></script>
+  <%= javascript_include_tag "board" %>
+  <%= javascript_include_tag "tictactoe" %>
   <script type="text/javascript">
 
     window.onload = onLoad;
