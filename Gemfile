@@ -30,6 +30,10 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'rails_12factor', group: :production
 
+gem 'google_drive'
+
+gem 'nokogiri'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
