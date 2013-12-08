@@ -29,15 +29,8 @@ limitations under the License.
      * receiver.
      */
     function onLoad() {
-      var canvas = document.getElementById("board");
-      var context = canvas.getContext("2d");
-      var mBoard = new board(context);
-      var favIcon = document.getElementById("favIcon");
-      mBoard.clear();
-      mBoard.drawGrid();
-      window.gameEngine = new cast.TicTacToe(mBoard);
+      window.gameEngine = new cast.Presentation();
     }
 
   </script>
-  <canvas id="board" width="1280" height="720" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#BDBDBD" />
 </html>
