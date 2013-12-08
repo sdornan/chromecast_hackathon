@@ -27,14 +27,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9a5c40a9-5d32-4a55-8c5b-26b4551a8d5e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/tictactoes/index.html.erb" afterPath="$PROJECT_DIR$/app/views/tictactoes/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/tictactoe.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/tictactoe.js" />
     </list>
     <ignored path="chromecast_hackathon.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="9a5c40a9-5d32-4a55-8c5b-26b4551a8d5e" time="1386459024986" ignored="false" />
     <file path="/a.dummy" changelist="9a5c40a9-5d32-4a55-8c5b-26b4551a8d5e" time="1386461285727" ignored="false" />
     <file path="/tictactoe.js" changelist="9a5c40a9-5d32-4a55-8c5b-26b4551a8d5e" time="1386461193469" ignored="false" />
-    <file path="/index.html.erb" changelist="9a5c40a9-5d32-4a55-8c5b-26b4551a8d5e" time="1386461312665" ignored="false" />
+    <file path="/index.html.erb" changelist="9a5c40a9-5d32-4a55-8c5b-26b4551a8d5e" time="1386461496589" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/tictactoes/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="69" selection-start="780" selection-end="780" vertical-scroll-proportion="0.448">
+            <state line="35" column="18" selection-start="1194" selection-end="1194" vertical-scroll-proportion="0.832">
               <folding />
             </state>
           </provider>
@@ -117,8 +116,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/tictactoes/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/tictactoe.js" />
+        <option value="$PROJECT_DIR$/app/views/tictactoes/index.html.erb" />
       </list>
     </option>
   </component>
@@ -572,7 +571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/tictactoes/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="69" selection-start="780" selection-end="780" vertical-scroll-proportion="0.448">
+        <state line="35" column="18" selection-start="1194" selection-end="1194" vertical-scroll-proportion="0.832">
           <folding />
         </state>
       </provider>
